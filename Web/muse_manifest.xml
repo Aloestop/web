@@ -1,0 +1,148 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="misfitsnft.xyz" resolutions="1x" timestamp="1663674119751">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="513537371" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="gif-sound-on-(1).gif" crc="3860640232" seo="true" mt="1663029607000"/>
+    <file name="sound-off-(1).png" crc="4119056839" seo="true" mt="1663029632000"/>
+    <file name="hip-hop-rock-beats-118000.mp3" crc="4222121628" seo="true" mt="1663028461000"/>
+    <file name="photo_2022-09-20_13-19-32.jpg" crc="433425341" seo="true" mt="1663671580000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:index"/>
+    <file name="require.js" crc="85721165" ref="phone>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="mi$fits-favicon.ico" crc="4000648238" ref="phone>index"/>
+    <file name="logo new.gif" crc="4292308421" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obvodkadddd (1) (3) (1).gif" crc="311864014" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discord gif-crop-u1178.png" crc="149433246" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter gif.gif" crc="144032946" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about misfits.png" crc="3872531514" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team (1).png" crc="162512037" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mint info.png" crc="407694107" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about misfits bottom.gif" crc="4064358924" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo_2022-09-15_13-19-03-u2164-fr.jpg" crc="3795790732" ref="phone>index"/>
+    <file name="photo_2022-09-15_13-19-01-u2163-fr.jpg" crc="121315286" ref="phone>index"/>
+    <file name="u2158-7.png" crc="266475484" ref="phone>index"/>
+    <file name="photo_2022-09-15_14-09-43164x164.jpg" crc="3949723907" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo_2022-09-15_14-49-22164x164.jpg" crc="12440574" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team bottom (1).gif" crc="18675806" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2619-6.png" crc="4221867656" ref="phone>index"/>
+    <file name="u2622-6.png" crc="402560128" ref="phone>index"/>
+    <file name="photo_2022-09-15_14-59-29164x164.jpg" crc="4233995756" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo_2022-09-15_14-59-42164x164.jpg" crc="3832435534" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2625-6.png" crc="344657226" ref="phone>index"/>
+    <file name="u2628-6.png" crc="231672640" ref="phone>index"/>
+    <file name="u2398-10.png" crc="89847923" ref="phone>index"/>
+    <file name="mint info bottom (1).gif" crc="4178376674" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled design (1).gif" crc="3963429727" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="exit gif.gif" crc="32407016" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="for.gif" crc="168095141" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about misfits gif.gif" crc="441808018" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="team gif (1).gif" crc="9517315" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mint info gif.gif" crc="100126206" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo_2022-09-15_13-19-03-u1906-fr.jpg" crc="4095444663" ref="index"/>
+    <file name="photo_2022-09-15_13-19-01-u2003-fr.jpg" crc="67203920" ref="index"/>
+    <file name="u2023-8.png" crc="3948448248" ref="index"/>
+    <file name="photo_2022-09-15_14-09-43.jpg" crc="284595332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2092-4.png" crc="3847676375" ref="index"/>
+    <file name="u2095-4.png" crc="311804773" ref="index"/>
+    <file name="photo_2022-09-15_14-49-22.jpg" crc="356856735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2108-4.png" crc="4235416029" ref="index"/>
+    <file name="u2109-4.png" crc="3977633495" ref="index"/>
+    <file name="photo_2022-09-15_14-59-29.jpg" crc="342509818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2126-4.png" crc="3851472240" ref="index"/>
+    <file name="u2127-4.png" crc="431399998" ref="index"/>
+    <file name="photo_2022-09-15_14-59-42.jpg" crc="503615972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2135-4.png" crc="192416348" ref="index"/>
+    <file name="u2136-4.png" crc="419431087" ref="index"/>
+    <file name="u2155-10.png" crc="4292843919" ref="index"/>
+    <file name="discord.png" crc="3905788708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discord gif.gif" crc="3926952677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4164835538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="215211768" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="57959123" seo="true" mt="1663672427688" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="275060600" seo="true" mt="1663673756274" redirect="true"/>
+</manifest>
